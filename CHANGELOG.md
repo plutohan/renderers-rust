@@ -1,5 +1,11 @@
 # @codama/renderers-rust
 
+## 3.1.1
+
+### Patch Changes
+
+- [#99](https://github.com/codama-idl/renderers-rust/pull/99) [`f90173a`](https://github.com/codama-idl/renderers-rust/commit/f90173a2f489f63beabf2bf702f6467848ee0bc1) Thanks [@lorisleiva](https://github.com/lorisleiva)! - Bump Codama dependencies to the latest version.
+
 ## 3.1.0
 
 ### Minor Changes
